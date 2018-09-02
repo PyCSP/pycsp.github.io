@@ -1,13 +1,13 @@
 # PyCSP project
 
-PyCSP is a project investigating and providing CSP (Communicating Sequential Processes), or process oriented programming in Python. 
+The PyCSP project is an on-going project project to bring CSP (Communicating Sequential Processes) to Python. The main goals of this project is to support our research projects, teaching and scientific programming.
 
 We are in the process of moving development activity to this GitHub
 organization. The following are links to releases and development branches of PyCSP. 
 
 
 
-* [The initial PyCSP](http://www.cs.uit.no/~johnm/code/PyCSP/) web page, with the first iterations of PyCSP using multithreading. 
+* [The initial PyCSP](http://www.cs.uit.no/~johnm/code/PyCSP/) web page with the first iterations of PyCSP using multithreading. 
 
 * [PyCSP 0.9.2](https://github.com/runefriborg/pycsp/wiki) with support for threads, multiprocessing and greenlets. 
 
