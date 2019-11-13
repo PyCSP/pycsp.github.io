@@ -9,11 +9,12 @@ organization. The following are links to releases and development branches of Py
 
 * [The initial PyCSP](http://www.cs.uit.no/~johnm/code/PyCSP/) web page with the first iterations of PyCSP using multithreading. 
 
-* [PyCSP 0.9.2](https://github.com/runefriborg/pycsp/wiki) with support for threads, multiprocessing and greenlets. 
+* [PyCSP](https://github.com/runefriborg/pycsp) a fully featured implementation with multiple backends (threads, multiprocessing and greenlets). 
+
+  - See also the [PyCSP 0.9.2 wiki](https://github.com/runefriborg/pycsp/wiki) for more information . 
 
 * [PyCSP classic](https://github.com/PyCSP/pycsp_classic) is the old 0.3.0 version ported to Python 3.0. It is used as a reference implementation for the newer branches. 
 
-* [PyCSP](https://github.com/runefriborg/pycsp) a fully featured implementation with multiple backends. 
 
 * [aPyCSP](https://github.com/PyCSP/aPyCSP) is a re-implementation of PyCSP for asyncio and coroutines and uses Python 3.6+. 
 
