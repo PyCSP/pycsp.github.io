@@ -18,7 +18,7 @@ organization. The following are links to releases and development branches of Py
 
 * [aPyCSP](https://github.com/PyCSP/aPyCSP) is a re-implementation of PyCSP for asyncio and coroutines and uses Python 3.6+. 
 
-  - [PyCSP lockver](https://github.com/PyCSP/aPyCSP_lockver) is an experimental branch of PyCSP that used an inefficient and complicated approach when porting to coroutines and asyncio. 
+* [PyCSP lockver](https://github.com/PyCSP/aPyCSP_lockver) is an experimental branch of PyCSP that used an inefficient and complicated approach when porting to coroutines and asyncio. 
   
 * [PyCSP-locksharing](https://github.com/PyCSP/PyCSP-locksharing) a multithreaded implementation that uses concepts from aPyCSP. 
 
