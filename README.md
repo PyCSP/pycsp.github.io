@@ -10,15 +10,16 @@ organization. The following are links to releases and development branches of Py
 
 * [PyCSP-locksharing](https://github.com/PyCSP/PyCSP-locksharing) a multithreaded implementation that uses concepts from aPyCSP. 
   
-* [PyCSP](https://github.com/runefriborg/pycsp) a fully featured implementation with multiple backends (threads, multiprocessing and greenlets). 
-
-  - See also the [PyCSP 0.9.2 wiki](https://github.com/runefriborg/pycsp/wiki) for more information . 
-  
 Older / inactive versjons: 
 
 * [The initial PyCSP](http://www.cs.uit.no/~johnm/code/PyCSP/) web page with the first iterations of PyCSP using multithreading. 
 
 * [PyCSP classic](https://github.com/PyCSP/pycsp_classic) is the old 0.3.0 version ported to Python 3.0. It is used as a reference implementation for the newer branches. 
+
+* [PyCSP](https://github.com/runefriborg/pycsp) a fully featured implementation with multiple backends (threads, multiprocessing and greenlets). 
+
+  - See also the [PyCSP 0.9.2 wiki](https://github.com/runefriborg/pycsp/wiki) for more information . 
+  - This version is currently not maintained. 
 
 * [PyCSP lockver](https://github.com/PyCSP/aPyCSP_lockver) is an experimental branch of PyCSP that used an inefficient and complicated approach when porting to coroutines and asyncio. 
 
