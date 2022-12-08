@@ -21,6 +21,6 @@ Older / inactive versjons:
   - See also the [PyCSP 0.9.2 wiki](https://github.com/runefriborg/pycsp/wiki) for more information . 
   - This version is currently not maintained. 
 
-* [PyCSP lockver](https://github.com/PyCSP/aPyCSP_lockver) is an experimental branch of PyCSP that used an inefficient and complicated approach when porting to coroutines and asyncio. 
+* [aPyCSP lockver](https://github.com/PyCSP/aPyCSP_lockver) is an experimental branch of PyCSP that used an inefficient and complicated approach when porting to coroutines and asyncio. 
 
 
